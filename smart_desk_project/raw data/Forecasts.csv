@@ -1,0 +1,136 @@
+ACCOUNT,CATEGORY,PREDICTION_CATEGORY,FORECAST,OPPORTUNITY_AGE,YEAR
+Abbot Industries,Break room,Pipeline,149098.00,3,2022
+Abbot Industries,Chairs,Pipeline,543900.00,3,2022
+Abbot Industries,Desks,Pipeline,306400.00,3,2022
+Abbot Industries,Electronics,Pipeline,423800.00,3,2022
+Adabs Entertainment,Break room,Pipeline,291513.00,3,2022
+Anaheim Home Solutions,Break room,Pipeline,66151.00,49,2022
+Anaheim Home Solutions,Break room,Upside,485120.00,4,2022
+Augusta Research,Electronics,Upside,800000.00,18,2022
+Aurora Premier Home Design,Electronics,Pipeline,120000.00,255,2022
+Bailey & Barnes,Desks,Pipeline,160318.00,20,2022
+Bayor Motors,Break room,Upside,603000.00,11,2022
+Beck Entertainment,Break room,Pipeline,554294.00,5,2022
+Bingham-Wolf,Break room,Pipeline,180412.00,3,2022
+Booster BI Software,Break room,Commit,1092350.00,24,2022
+Caftin Consulting,Break room,Pipeline,50554.00,13,2022
+Casper Health Solutions,Break room,Commit,959532.00,19,2022
+Cassinco,Desks,Pipeline,96000.00,26,2022
+Chaplin Media Group,Break room,Pipeline,419253.00,41,2022
+Chaplin Media Group,Chairs,Pipeline,219000.00,41,2022
+Chaplin Media Group,Desks,Pipeline,637900.00,41,2022
+Chaplin Media Group,Electronics,Pipeline,880000.00,41,2022
+Collins-Hampton Law Group,Break room,Pipeline,531000.00,10,2022
+Collins-Hampton Law Group,Desks,Pipeline,750000.00,10,2022
+Collins-Hampton Law Group,Electronics,Pipeline,850000.00,10,2022
+Confroy Automotive,Chairs,Commit,74549.00,45,2022
+Corwin Insurance Group,Break room,Pipeline,469741.00,5,2022
+Cudjoe Electronics,Desks,Pipeline,118000.00,4,2022
+Dare Health Consulting,Chairs,Pipeline,96000.00,18,2022
+Dashers Mobile,Break room,Pipeline,851160.00,14,2022
+Deehan Distribution Services,Electronics,Commit,74549.00,45,2022
+Deehan Distribution Services,Electronics,Pipeline,174790.00,89,2022
+Donnelly Travel Services,Break room,Pipeline,851160.00,14,2022
+Douglas Public Relations,Break room,Pipeline,289070.00,4,2022
+DressMe Collections,Break room,Upside,275538.00,35,2022
+Dunn Premier Home Designs,Break room,Commit,74549.00,45,2022
+East Avenue Technology,Break room,Pipeline,353800.00,77,2022
+Edert Financial Group,Break room,Pipeline,51500.00,2,2022
+Elevate Sportswear,Break room,Pipeline,50000.00,4,2022
+Emmerich Telecommunications,Chairs,Pipeline,472000.00,44,2022
+Excellerent Motors,Break room,Pipeline,72000.00,20,2022
+Excellerent Motors,Electronics,Upside,402600.00,3,2022
+Explorers Advisory,Break room,Pipeline,97185.00,11,2022
+Factor Graphics,Electronics,Commit,74549.00,45,2022
+Fade Laboratories,Break room,Commit,74549.00,45,2022
+FanTickets,Electronics,Commit,1248635.00,383,2022
+Farbey Banking Services,Break room,Pipeline,219000.00,20,2022
+Farbey Banking Services,Break room,Upside,939180.00,3,2022
+Feist Home Goods,Break room,Commit,74549.00,45,2022
+Feist Home Goods,Break room,Pipeline,1206353.00,14,2022
+Ferry Insurance Group,Break room,Upside,356655.00,250,2022
+Fishela Investments,Break room,Pipeline,65676.00,48,2022
+Garfield Recruitment,Desks,Pipeline,271755.00,21,2022
+Glazer Home Sellers,Break room,Pipeline,59000.00,17,2022
+Glazer Home Sellers,Chairs,Pipeline,165279.00,34,2022
+Goldner Distribution,Break room,Pipeline,277559.00,5,2022
+Hackett Investment Services,Break room,Upside,200000.00,3,2022
+Hannigan & Griff,Break room,Pipeline,50000.00,12,2022
+Hannigan & Griff,Break room,Upside,610000.00,17,2022
+Hansong Wholesale,Break room,Pipeline,111000.00,22,2022
+Hardey Training Solutions,Break room,Pipeline,8000.00,27,2022
+Hatch Sports,Chairs,Pipeline,166327.00,38,2022
+Hauck Recreation Group,Desks,Pipeline,335561.00,49,2022
+Hegmann Consulting,Break room,Upside,544001.00,4,2022
+Herbert Accounting,Break room,Pipeline,225994.00,378,2022
+Herbert Accounting,Desks,Pipeline,58013.00,129,2022
+Herman Home Solutions,Break room,Pipeline,319651.00,21,2022
+Homes & Horizons,Break room,Upside,1315380.00,11,2022
+JLG Gibson,Break room,Pipeline,240000.00,5,2022
+JLG Gibson,Electronics,Commit,1248635.00,383,2022
+Keebler Consulting,Electronics,Upside,587176.00,4,2022
+Kessler-Langosh Consultants,Break room,Commit,959532.00,19,2022
+Kloss-Hammill Graphic Design,Electronics,Upside,427000.00,7,2022
+Kohler-Hills,Break room,Upside,480568.00,4,2022
+Kutcher & Sons Accounting Services,Break room,Pipeline,254245.00,4,2022
+Lowe Recreation,Desks,Commit,1248635.00,383,2022
+Lynch Medical Providers,Break room,Upside,1315380.00,11,2022
+Mallio and Sons,Break room,Pipeline,42000.00,47,2022
+Marco Meyers Inc.,Break room,Pipeline,155207.00,20,2022
+Marta Boyer Productions,Chairs,Pipeline,112375.00,42,2022
+Marvetco,Chairs,Pipeline,45395.00,4,2022
+McGlynn Insurance Group,Chairs,Pipeline,177000.00,19,2022
+McNamee IT Management,Break room,Pipeline,110122.00,26,2022
+Mertz Rentals,Chairs,Pipeline,85203.00,173,2022
+MilaMart,Break room,Commit,672000.00,20,2022
+MilaMart,Break room,Pipeline,1138000.00,25,2022
+Mills-Wilderman Inc.,Desks,Pipeline,40000.00,42,2022
+Mitcho Inc.,Break room,Pipeline,128913.00,21,2022
+Monaghan & Meyers,Desks,Pipeline,116000.00,44,2022
+Morgan-Gutman,Break room,Pipeline,90000.00,3,2022
+Mountano Healthcare,Break room,Commit,959532.00,19,2022
+Mraz Medical Group,Break room,Upside,723379.00,21,2022
+Mraz Medical Group,Desks,Pipeline,50428.00,5,2022
+Muller Restaurant Group,Chairs,Commit,646974.00,14,2022
+Murray Home & Lawn,Electronics,Upside,610000.00,8,2022
+Newtun Laboratories,Electronics,Pipeline,50000.00,7,2022
+Nolan Sun Solutions,Chairs,Pipeline,90000.00,14,2022
+O'Connor Audit Group,Chairs,Pipeline,1074357.00,27,2022
+Orange Communications,Electronics,Pipeline,187896.00,5,2022
+Padberg Health Recruiting,Desks,Commit,1248635.00,383,2022
+Quigley Equipment Rental,Break room,Upside,1315380.00,11,2022
+Quitzon Medical Network,Chairs,Pipeline,72500.00,14,2022
+Raptor Unlimited,Electronics,Upside,925000.00,44,2022
+Raven Networks,Break room,Upside,338487.00,45,2022
+Raven Networks,Chairs,Pipeline,63500.00,11,2022
+Raynor & Co.,Break room,Pipeline,26254.00,27,2022
+Reidwo Consulting,Chairs,Pipeline,60462.00,21,2022
+Right Pick Real Estate Group,Break room,Commit,74549.00,45,2022
+Rodan Industries,Break room,Upside,493777.00,27,2022
+Rolfe Insurance,Break room,Pipeline,47200.00,17,2022
+Rowe Creative Group,Break room,Pipeline,91500.00,343,2022
+Rowe Creative Group,Break room,Upside,305000.00,19,2022
+Sanchez Real Estate,Break room,Pipeline,236000.00,19,2022
+Shoppers FastMart,Desks,Commit,1248635.00,383,2022
+Silva Bank,Break room,Upside,520109.00,20,2022
+Smith First Response Services,Break room,Pipeline,215578.00,26,2022
+Smithfield Health,Break room,Pipeline,143206.00,14,2022
+Soneyworks,Break room,Upside,574479.00,31,2022
+Sonif Electronics,Break room,Pipeline,219116.00,17,2022
+Speed Specialty Foods,Break room,Upside,1481969.00,143,2022
+Spencel Consulting,Electronics,Pipeline,272676.00,10,2022
+Strofan Consulting,Break room,Upside,800000.00,18,2022
+Surpristo Co.,Chairs,Pipeline,179036.00,12,2022
+Surry Systems,Electronics,Pipeline,118000.00,19,2022
+Swifty Loans,Break room,Pipeline,472000.00,44,2022
+Swifty Loans,Electronics,Pipeline,84063.00,7,2022
+The Champlim Group,Break room,Pipeline,860670.00,26,2022
+The Jamell Group,Break room,Commit,646974.00,14,2022
+The Robel Group,Desks,Pipeline,421306.00,61,2022
+Thompson Superstores,Break room,Pipeline,216737.00,33,2022
+Togan Industries,Electronics,Pipeline,97600.00,204,2022
+Torpono Inc.,Break room,Pipeline,316540.00,4,2022
+Tremblay Law Group,Electronics,Pipeline,272676.00,10,2022
+Trophy Software,Break room,Upside,372821.00,26,2022
+Venes Laboratories,Break room,Pipeline,595858.00,5,2022
+Ventala Inc.,Desks,Pipeline,1574000.00,17,2022
